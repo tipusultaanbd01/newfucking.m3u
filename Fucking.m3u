@@ -59,3 +59,303 @@ http://zibo-play-app4.tvhunter.top/704/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/dd-sports.png",DD Sports
 https://zibo-play-app5.tvhunter.top/live/280/280_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/t-sports-hd.png",T Sports HD
+https://zibo-play-server-1.tvhunter.top/xdi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ptv-sports.png",PTV Sports
+https://zibo-play-cldserver.tvhunter.top/cld/46/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/a-sports.png",A Sports
+https://zibo-play-cldserver.tvhunter.top/cld/45/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-selected-2.png",Star Sports Selected 2
+https://zibo-play-app4.tvhunter.top/124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-selected-1.png",Star Sports Selected 1
+https://zibo-play-app4.tvhunter.top/123/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-3.png",Star Sports 3
+https://zibo-play-app6.tvhunter.top/mc/live14.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-2.png",Star Sports 2
+https://zibo-play-cldserver.tvhunter.top/cld/s2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-1.png",Star Sports 1
+https://zibo-play-app4.tvhunter.top/110/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-5.png",Sony Ten 5
+https://ziboplaybd.tvhunter.top/14_SONY-SPORTS_5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-3.png",Sony Ten 3
+https://zibo-play-app4.tvhunter.top/121/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-2.png",Sony Ten 2
+http://zibo-play-app4.tvhunter.top/120/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-1.png",Sony Ten 1
+http://zibo-play-app4.tvhunter.top/119/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/duronto-tv.png",Duronto TV
+https://zibo-play-cldserver.tvhunter.top/cld/47/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/disney.png",Disney
+https://zibo-play-app6.tvhunter.top/mc/live10.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/hungama.png",Hungama
+https://zibo-play-server-1.tvhunter.top/hajk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/super-hungama.png",Super Hungama
+https://zibo-play-app6.tvhunter.top/mc/live9.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-yay-bangla.png",Sony Yay Bangla
+https://ahil.bro.bd/confg/bofi/live.php?id=sonyyay&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/pogo.png",POGO
+https://ahil.bro.bd/confg/bofi/live.php?id=pogo_sd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/discovery-kids.png",Discovery Kids
+https://ahil.bro.bd/confg/bofi/live.php?id=discovery_kids&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/cartoon-network-hd.png",Cartoon Network HD+
+https://ahil.bro.bd/confg/bofi/live.php?id=cartoon_network_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/cartoon-network.png",Cartoon Network
+https://ahil.bro.bd/confg/bofi/live.php?id=cartoon_network_sd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sonic-bangla.png",Sonic Bangla
+https://zibo-play-server-1.tvhunter.top/sonci-34/ffd3-43-44-4554554-eew/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/nick-bangla.png",Nick Bangla
+https://zibo-play-server-1.tvhunter.top/ncik_dsds/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/dangal-2.png",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/dangal-tv.png",Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/tv-hd.png",&TV
+https://ahil.bro.bd/confg/bofi/live.php?id=and_tv_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-brhat-hd.png",Star Bharat HD
+http://zibo-play-app6.tvhunter.top/mc/live13.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-pal.png",Sony Pal
+https://zibo-play-app6.tvhunter.top/mc/live12.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-sab.png",Sony SAB
+https://ahil.bro.bd/confg/bofi/live.php?id=sonysab_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-sab-hd.png",Sony SAB HD
+https://zibo-play-server-1.tvhunter.top/sabwqqw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-plus.png",Star Plus
+https://zibo-play-app-link45.tvhunter.top/StarPlus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-tv.png",Zee TV
+https://zibo-play-app-link45.tvhunter.top/ZeeTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-hd.png",Colors HD
+http://zibo-play-app4.tvhunter.top/405/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-set-hd.png",Sony SET HD
+http://zibo-play-app4.tvhunter.top/403/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-max-1.png",Sony Max 1
+https://zibo-play-server-1.tvhunter.top/hhwqqw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-anmol-cinema-2.png",Zee Anmol Cinema 2
+https://zibo-play-app5.tvhunter.top/live/257/257_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-anmol-cinema.png",Zee Anmol Cinema
+https://zibo-play-app5.tvhunter.top/live/271/271_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/g-series.png",G-Series
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/tata-play-bangla-cinema.png",Tata Play Bangla Cinema
+https://zibo-play-app6.tvhunter.top/mc/live16.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/shemaroo-bollywood.png",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-bangla-cinema.png",Colors Bangla Cinema
+https://zibo-play-cldserver.tvhunter.top/cld/colors_bn_cn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/b4u-kadak.png",B4U Kadak
+https://zibo-play-app5.tvhunter.top/live/44/44_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/shemaroo-josh.png",Shemaroo Josh
+https://zibo-play-app5.tvhunter.top/live/21/21_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/all-time-movies.png",All Time Movies
+https://zibo-play-app5.tvhunter.top/live/54/54_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/goldmine-bollywood.png",Goldmine Bollywood
+https://zibo-play-app5.tvhunter.top/live/52/52_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-infinity.png",Colors Infinity
+https://zibo-play-app5.tvhunter.top/live/29/29_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-movies-selected-hd.png",Star Movies Selected HD
+https://zibo-play-app38.tvhunter.top/star_movies_select/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-movies-hd.png",Star Movies HD
+https://zibo-play-app4.tvhunter.top/501/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/pictures.png",& Pictures
+https://zibo-play-server-1.tvhunter.top/dfdfs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-classic.png",Zee Classic
+https://zibo-play-app6.tvhunter.top/mc/live7.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-action.png",Zee Action
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_action&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-bollywood.png",Zee Bollywood
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_bollywood&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-cafe.png",Zee Cafe
+https://zibo-play-app38.tvhunter.top/zeecafehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-cinema-hd.png",Zee Cinema HD
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_cinema_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-pix-hd.png",Sony Pix HD
+https://ahil.bro.bd/confg/bofi/live.php?id=sonypix_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-bangla-soner.png",Zee Bangla Cinema
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_bangla_cinema&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/goldmine-movies.png",Goldmine Movies
+https://zibo-play-app-41.tvhunter.top/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/goldmine.png",Goldmine
+https://zibo-play-app-41.tvhunter.top/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-wah.png",Sony Wah
+https://zibo-play-server-1.tvhunter.top/qwwqqwwqwah/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-max-2.png",Sony Max 2
+https://ahil.bro.bd/confg/bofi/live.php?id=sonymax_2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-max-hd.png",Sony Max HD
+https://zibo-play-app4.tvhunter.top/404/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-cineplex-superhits.png",Colors Cineplex Superhits
+https://zibo-play-server-1.tvhunter.top/superhit/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-thirlls.png",Star Gold Thrills
+https://zibo-play-app4.tvhunter.top/408/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-romance.png",Star Gold Romance
+http://zibo-play-app6.tvhunter.top/mc/live3.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-selected.png",Star Gold Selected
+https://zibo-play-app6.tvhunter.top/mc/live2.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-2.png",Star Gold 2
+https://zibo-play-cldserver.tvhunter.top/cld/14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-hd.png",Star Gold HD
+https://zibo-play-app38.tvhunter.top/stargold_ml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/jalsha-movies.png",Jalsha Movies
+https://zibo-play-app4.tvhunter.top/303/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-cineplex-hd.png",Colors Cineplex HD
+https://zibo-play-cldserver.tvhunter.top/cld/18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/khushboo-tv.png",Khushboo TV
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/enterr10-bangla.png",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/akash-aath.png",Akash Aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sun-bangla-hd.png",Sun Bangla HD
+https://zibo-play-cldserver.tvhunter.top/cld/sun/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-aath.png",Sony Aath
+https://zibo-play-server-1.tvhunter.top/8wq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-bangla-hd.png",Colors Bangla HD
+https://zibo-play-app4.tvhunter.top/304/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-bangla-hd.png",Zee Bangla HD
+https://zibo-play-server-1.tvhunter.top/zeebanasas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-jalsha-hd.png",Star Jalsha HD
+https://zibo-play-app4.tvhunter.top/302/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/srk-tv.jpeg",SRK TV
+https://srktv-zibo-play-app.tvhunter.top/flixhls/flixsrktv.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-news.png",Star News
+https://zibo-play-offical12.tvhunter.top/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/green-tv.png",Green TV
+https://zibo-play-app38.tvhunter.top/GreenTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/channel-s.png",Channel S
+https://ahil.bro.bd/confg/bofi/live.php?id=channel_s_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/global-tv.png",Global TV
+https://ahil.bro.bd/confg/bofi/live.php?id=global_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ekhon-tv.png",Ekhon TV
+https://ahil.bro.bd/confg/bofi/live.php?id=ekhon_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/nexus-tv.png",Nexus TV
+https://ahil.bro.bd/confg/bofi/live.php?id=nexus_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ananda-tv.png",Ananda TV
+https://ahil.bro.bd/confg/bofi/live.php?id=anandatv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/nagorik-tv.png",Nagorik TV
+https://zibo-play-server-1.tvhunter.top/NAGORIK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/bangla-tv.png",Bangla TV
+https://ahil.bro.bd/confg/bofi/live.php?id=bangla_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/news-24.png",News 24
+https://zibo-play-cldserver.tvhunter.top/cld/ns/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/dbc-news.png",DBC News
+http://zibo-play-app4.tvhunter.top/204/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/depto-tv.png",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/jamuna-tv.png",Jamuna TV
+https://ahil.bro.bd/confg/bofi/live.php?id=jamuna_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sa-tv.png",SA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/asian-tv.png",Asian TV
+https://ahil.bro.bd/confg/bofi/live.php?id=asian_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ekatoor-tv.png",Ekattor TV
+https://ahil.bro.bd/confg/bofi/live.php?id=ekattor_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/gazi-tv.png",Gazi TV
+https://zibo-play-app38.tvhunter.top/gazi_ml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/channel-24.png",Channel 24
+https://zibo-play-app38.tvhunter.top/channel24_ml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/channel-9.png",Channel 9
+https://zibo-play-app38.tvhunter.top/channel9_ml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/massranga-tv.png",Massranga TV
+http://zibo-play-app4.tvhunter.top/206/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/independent-tv.png",Independent TV
+https://ahil.bro.bd/confg/bofi/live.php?id=independent_tv&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/somoy-news.png",Somoy News
+https://ahil.bro.bd/confg/bofi//live.php?id=somoy_tv&e=.m3u8
