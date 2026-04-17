@@ -245,3 +245,90 @@ https://zibo-play-app38.tvhunter.top/BtvNational/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png" group-title="Kolkata TV",Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-bangla-cinema.png" group-title="Movies TV",Colors Bangla Cinema
+https://zibo-play-cldserver.tvhunter.top/cld/colors_bn_cn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/b4u-kadak.png" group-title="Movies TV",B4U KADAK
+https://zibo-play-app5.tvhunter.top/live/44/44_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/shemaroo-josh.png" group-title="Movies TV",Shemaroo Josh
+https://zibo-play-app5.tvhunter.top/live/21/21_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/all-time-movies.png" group-title="Movies TV",All Time Movies
+https://zibo-play-app5.tvhunter.top/live/54/54_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/goldmine-bollywood.png" group-title="Movies TV",Goldmine Bollywood
+https://zibo-play-app5.tvhunter.top/live/52/52_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-infinity.png" group-title="Movies TV",Colors Infinity
+https://zibo-play-app5.tvhunter.top/live/29/29_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-movies-selected-hd.png" group-title="Movies TV",Star Movies Selected HD
+https://zibo-play-app38.tvhunter.top/star_movies_select/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-movies-hd.png" group-title="Movies TV",Star Movies HD
+https://zibo-play-app4.tvhunter.top/501/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/pictures.png" group-title="Movies TV",& Pictures
+https://zibo-play-server-1.tvhunter.top/dfdfs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-classic.png" group-title="Movies TV",Zee Classic
+https://zibo-play-app6.tvhunter.top/mc/live7.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-action.png" group-title="Movies TV",Zee Action
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_action&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-bollywood.png" group-title="Movies TV",Zee Bollywood
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_bollywood&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-cafe.png" group-title="Movies TV",Zee Cafe
+https://zibo-play-app38.tvhunter.top/zeecafehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-cinema-hd.png" group-title="Movies TV",Zee Cinema HD
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_cinema_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-pix-hd.png" group-title="Movies TV",Sony Pix HD
+https://ahil.bro.bd/confg/bofi/live.php?id=sonypix_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-bangla-soner.png" group-title="Movies TV",Zee Bangla Cinema
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_bangla_cinema&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/goldmine-movies.png" group-title="Movies TV",Goldmine Movies
+https://zibo-play-app-41.tvhunter.top/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/goldmine.png" group-title="Movies TV",Goldmine
+https://zibo-play-app-41.tvhunter.top/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-wah.png" group-title="Movies TV",Sony Wah
+https://zibo-play-server-1.tvhunter.top/qwwqqwwqwah/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-max-2.png" group-title="Movies TV",Sony Max 2
+https://ahil.bro.bd/confg/bofi/live.php?id=sonymax_2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-max-hd.png" group-title="Movies TV",Sony Max HD
+https://zibo-play-app4.tvhunter.top/404/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-cineplex-superhits.png" group-title="Movies TV",Colors Cineplex Superhits
+https://zibo-play-server-1.tvhunter.top/superhit/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-thirlls.png" group-title="Movies TV",Star Gold Thrills
+https://zibo-play-app4.tvhunter.top/408/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-romance.png" group-title="Movies TV",Star Gold Romance
+http://zibo-play-app6.tvhunter.top/mc/live3.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-selected.png" group-title="Movies TV",Star Gold Selected
+https://zibo-play-app6.tvhunter.top/mc/live2.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-2.png" group-title="Movies TV",Star Gold 2
+https://zibo-play-cldserver.tvhunter.top/cld/14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-hd.png" group-title="Movies TV",Star Gold HD
+https://zibo-play-app38.tvhunter.top/stargold_ml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/jalsha-movies.png" group-title="Movies TV",Jalsha Movies
+https://zibo-play-app4.tvhunter.top/303/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-cineplex-hd.png" group-title="Movies TV",Colors Cineplex HD
+https://zibo-play-cldserver.tvhunter.top/cld/18/tracks-v1a1/mono.m3u8
