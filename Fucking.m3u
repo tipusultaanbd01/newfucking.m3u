@@ -1,6 +1,5 @@
 #EXTM3U
 
-# ===== Internet TV =====
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sananda-tv.png" group-title="Internet TV",Sananda TV
 https://zibo-play-server-1.tvhunter.top/San/index.m3u8
 
@@ -13,64 +12,38 @@ https://zibo-play-offical12.tvhunter.top/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6N
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/channel-16.png" group-title="Internet TV",Channel 16
 https://zibo-play-server-1.tvhunter.top/c16/index.m3u8
 
-# ===== Live Events =====
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ipl-bangla.jpg" group-title="Live Events",IPL Bangla
 https://zibo-play-server-1.tvhunter.top/fddfQw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/psl-urdu.jpg" group-title="Live Events",PSL
 https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 
-# ===== Sports TV =====
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/t-sports-hd.png" group-title="Sports TV",T Sports HD
-https://zibo-play-server-1.tvhunter.top/xdi/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/laliga-tv.jpeg" group-title="Live Events",Laliga TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-sports-1.png" group-title="Sports TV",Star Sports 1
-https://zibo-play-app4.tvhunter.top/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/al-jazeera.png" group-title="International TV",Al Jazeera
+https://zibo-play-app38.tvhunter.top/aljazeera_ml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-ten-2.png" group-title="Sports TV",Sony Ten 2
-http://zibo-play-app4.tvhunter.top/120/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/geo-news.png" group-title="International TV",Geo News
+https://zibo-play-app38.tvhunter.top/geonews_ml/index.m3u8
 
-# ===== Bangladeshi TV =====
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/channel-i.png" group-title="Bangladeshi TV",Channel i
-https://zibo-play-app38.tvhunter.top/ChanneliHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/cnn.png" group-title="International TV",CNN
+https://ahil.bro.bd/confg/bofi/live.php?id=cnn&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ekushey-tv.png" group-title="Bangladeshi TV",Ekushey TV
-https://zibo-play-app38.tvhunter.top/Ekusheytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-bbc-earth.png" group-title="Information TV",Sony BBC Earth
+https://zibo-play-cldserver.tvhunter.top/cld/48/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/rtv.png" group-title="Bangladeshi TV",RTV
-https://zibo-play-app38.tvhunter.top/rtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/discovery-bangla.png" group-title="Information TV",Discovery Bangla
+https://zibo-play-cldserver.tvhunter.top/cld/32/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ntv.png" group-title="Bangladeshi TV",NTV
-https://zibo-play-app38.tvhunter.top/ntvsd/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/nat-geo-bangla.png" group-title="Information TV",Nat Geo Bangla
+https://zibo-play-server-1.tvhunter.top/natgrtassa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/channel-24.png" group-title="Bangladeshi TV",Channel 24
-https://zibo-play-app38.tvhunter.top/channel24_ml/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/islam-tv.png" group-title="Islamic TV",Islamic TV
+https://zibo-play-server-1.tvhunter.top/islamtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/jamuna-tv.png" group-title="Bangladeshi TV",Jamuna TV
-https://ahil.bro.bd/confg/bofi/live.php?id=jamuna_tv&e=.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/madina-tv.png" group-title="Islamic TV",Madina TV
+https://zibo-play-app38.tvhunter.top/sunna_mimelive/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/gazi-tv.png" group-title="Bangladeshi TV",Gazi TV
-https://zibo-play-app38.tvhunter.top/gazi_ml/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/btv-hd.png" group-title="Bangladeshi TV",BTV HD
-https://zibo-play-app38.tvhunter.top/BtvNational/index.m3u8
-
-# ===== Kolkata TV =====
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-jalsha-hd.png" group-title="Kolkata TV",Star Jalsha HD
-https://zibo-play-app4.tvhunter.top/302/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-bangla-hd.png" group-title="Kolkata TV",Zee Bangla HD
-https://zibo-play-server-1.tvhunter.top/zeebanasas/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-bangla-hd.png" group-title="Kolkata TV",Colors Bangla HD
-https://zibo-play-app4.tvhunter.top/304/index.m3u8
-
-# ===== Movies TV =====
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-hd.png" group-title="Movies TV",Star Gold HD
-https://zibo-play-app38.tvhunter.top/stargold_ml/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-max-hd.png" group-title="Movies TV",Sony Max HD
-https://zibo-play-app4.tvhunter.top/404/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-cinema-hd.png" group-title="Movies TV",Zee Cinema HD
-https://ahil.bro.bd/confg/bofi/live.php?id=zee_cinema_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/makkah-tv.png" group-title="Islamic TV",Makkah TV
+https://zibo-play-app38.tvhunter.top/qurantv_mimelive/index.m3u8
