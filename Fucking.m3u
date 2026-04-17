@@ -12,15 +12,6 @@ https://zibo-play-offical12.tvhunter.top/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6N
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/channel-16.png",Channel 16
 https://zibo-play-server-1.tvhunter.top/c16/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ipl-bangla.jpg",IPL Bangla
-https://zibo-play-server-1.tvhunter.top/fddfQw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/psl-urdu.jpg",PSL
-https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/laliga-tv.jpeg",Laliga TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/al-jazeera.png",Al Jazeera
 https://zibo-play-app38.tvhunter.top/aljazeera_ml/index.m3u8
 
@@ -56,6 +47,15 @@ https://zibo-play-app38.tvhunter.top/sangeetbangla_ml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/9xm.png",9xm
 http://zibo-play-app4.tvhunter.top/704/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ipl-bangla.jpg",IPL Bangla
+https://zibo-play-server-1.tvhunter.top/fddfQw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/psl-urdu.jpg",PSL
+https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/laliga-tv.jpeg",Laliga TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/dd-sports.png",DD Sports
 https://zibo-play-app5.tvhunter.top/live/280/280_0.m3u8
