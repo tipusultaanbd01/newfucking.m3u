@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sananda-tv.png",Sananda TV
 https://zibo-play-server-1.tvhunter.top/San/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/m-sports.png",M Sports
-https://zibo-play-server-1.tvhunter.top/Ms/index.m3u8
+#EXTINF:-1 tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png",Amar Bangla TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ayna-tv.png",Ayna TV
 https://zibo-play-offical12.tvhunter.top/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
@@ -59,6 +59,9 @@ http://zibo-play-app4.tvhunter.top/704/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/dd-sports.png",DD Sports
 https://zibo-play-app5.tvhunter.top/live/280/280_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/m-sports.png",M Sports
+https://zibo-play-server-1.tvhunter.top/Ms/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/t-sports-hd.png",T Sports HD
 https://zibo-play-server-1.tvhunter.top/xdi/index.m3u8
@@ -407,6 +410,3 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/btv-hd.png",BTV HD
 https://zibo-play-app38.tvhunter.top/BtvNational/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png",Amar Bangla TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
