@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sananda-tv.png",Sananda TV
 https://zibo-play-server-1.tvhunter.top/San/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/jalsha-movies.png",Jalsha Movies
+https://zibo-play-app4.tvhunter.top/303/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-bangla-soner.png",Zee Bangla Cinema
+https://ahil.bro.bd/confg/bofi/live.php?id=zee_bangla_cinema&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png",Amar Bangla TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
@@ -297,9 +303,6 @@ https://ahil.bro.bd/confg/bofi/live.php?id=zee_cinema_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sony-pix-hd.png",Sony Pix HD
 https://ahil.bro.bd/confg/bofi/live.php?id=sonypix_hd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/zee-bangla-soner.png",Zee Bangla Cinema
-https://ahil.bro.bd/confg/bofi/live.php?id=zee_bangla_cinema&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/goldmine-movies.png",Goldmine Movies
 https://zibo-play-app-41.tvhunter.top/live/1461/master.m3u8
 
@@ -332,9 +335,6 @@ https://zibo-play-cldserver.tvhunter.top/cld/14/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/star-gold-hd.png",Star Gold HD
 https://zibo-play-app38.tvhunter.top/stargold_ml/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/jalsha-movies.png",Jalsha Movies
-https://zibo-play-app4.tvhunter.top/303/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/colors-cineplex-hd.png",Colors Cineplex HD
 https://zibo-play-cldserver.tvhunter.top/cld/18/tracks-v1a1/mono.m3u8
