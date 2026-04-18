@@ -111,17 +111,11 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-id="MusicIndia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg", Music India HD
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-id="BollyRaga", NH BollyRaga
-https://cc-up91649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
-
 #EXTINF:-1 tvg-id="PitaaraTV" tvg-logo="https://a.jsrdn.com/hls/23049/pitaara-tv/logo_20231219_220959_63.png", Pitaara TV
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PTCChakde" tvg-logo="https://static.wikia.nocookie.net/Logopedia/images/7/7a/PTC_Chakde.jpg", PTC Chakde
 https://cdn-1.pishow.tv/live/449/master.m3u8
-
-#EXTINF:-1 tvg-id="PTCMusic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music.jpg", PTC Music
-https://d21k5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 
 #EXTINF:-1 tvg-id="PublicMusic" tvg-logo="https://i.imgur.com/Dx551NT.png", Public Music
 https://cdn-3.pishow.tv/live/441/master.m3u8
