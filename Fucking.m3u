@@ -114,26 +114,8 @@ https://cdn-1.pishow.tv/live/449/master.m3u8
 #EXTINF:-1 tvg-id="PublicMusic" tvg-logo="https://i.imgur.com/Dx551NT.png", Public Music
 https://cdn-3.pishow.tv/live/441/master.m3u8
 
-#EXTINF:-1 tvg-id="SagaMusic" tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68.png", Saga Music
-https://ang01412-xiaomiasia-sagamusic-xiaomi-h54ye.anagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SagaMusicHaryanvi" tvg-logo="https://yt3.googleusercontent.com/", Saga Music Haryanvi
-https://ang01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.anagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SanaPlus" tvg-logo="https://i.imgur.com/NGtKUZv.png", Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
-
-#EXTINF:-1 tvg-id="SteelbirdMusic" tvg-logo="https://steelbirdmusic.tv/m/images/logo1.png", Steelbird Music
-https://cdn2.in/SteelbirdMusicTVhis/live.m3u8
-
-#EXTINF:-1 tvg-id="YRFMusic" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png", YRF Music
-https://ang01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.anagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="YRFMusicHD" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png", YRF Music HD
-https://cdn-uw2-prod.tsv2.anagi.tv/linear/ang01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Zoom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zoom_2018_logo.jpg", Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCA25qkRX1KcK1AJMIVKQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/ipl-bangla.jpg",IPL Bangla
 https://zibo-play-server-1.tvhunter.top/fddfQw/index.m3u8
