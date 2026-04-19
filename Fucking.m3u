@@ -9,9 +9,6 @@ https://ahil.bro.bd/confg/bofi/live.php?id=zee_bangla_cinema&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tv.shopnojaal.top/app-admin-pannel/uploads/tv_image/sananda-tv.png",Sananda TV
 https://zibo-play-server-1.tvhunter.top/San/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bangla Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies" group-title="",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 
